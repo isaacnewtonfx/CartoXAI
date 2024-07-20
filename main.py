@@ -5,7 +5,7 @@ Refer to the thesis for more information on other objectives and research questi
 
 
 Title: 
-- Improving the understanding of Machine Learning predictions using maps
+- Improving the understanding of Machine Learning predictions through maps
 
 The Problem: 
 - A non-interpretable ML prediction leads to 
