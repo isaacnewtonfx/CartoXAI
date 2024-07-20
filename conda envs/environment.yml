@@ -1,0 +1,37 @@
+#environment.yml
+name: geoai
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.13
+  - fasttreeshap
+  - pip:
+    - ipykernel       
+
+    # Data I/O and Management
+    - numpy==1.23.3
+    - pandas==1.4.4
+    - geopandas==0.13.2
+    - pyogrio==0.7.2
+    - geocube==0.4.2
+    - rioxarray==0.15.0
+
+    # Machine Learning
+    - scikit-learn==1.1.2
+    - quantile-forest
+
+    # Explainable Machine Learning
+    - shap==0.44.0
+    - fasttreeshap==0.1.6
+
+    # Plot
+    - matplotlib==3.5.3
+    - seaborn==0.12.1
+    - kaleido==0.1.0 
+    - plotly
+    
+platforms:
+  - linux-64
+  - osx-64
+  - win-64

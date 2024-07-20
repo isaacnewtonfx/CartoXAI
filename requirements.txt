@@ -1,0 +1,15 @@
+ipykernel
+plotly
+numpy==1.23.3
+pandas==1.4.4
+geopandas==0.13.2
+pyogrio==0.7.2
+matplotlib==3.5.3
+seaborn==0.12.1
+scikit-learn==1.1.2
+geocube==0.4.2
+rioxarray==0.15.0
+shap==0.44.0
+fasttreeshap==0.1.6
+quantile-forest
+kaleido==0.1.0
