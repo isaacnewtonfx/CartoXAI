@@ -1,7 +1,7 @@
 # International M.Sc. Cartography Thesis Source Code 
 ## Topic: Improving the understanding of Machine Learning predictions through maps
 
-This repository is the source code developed in Python for the thesis topic above. It provides a detailed implementation regarding the technical steps involved in combining Machine Learning, Explainable Machine Learning, and Cartographic Visualizations to enhance the understanding of a black box model (Random Forest),
+This repository is the source code developed in Python for the thesis topic above. It provides a detailed implementation regarding the technical steps involved in combining Machine Learning, Explainable Machine Learning, and Cartographic Visualizations to enhance the interpretability and understanding of a black box model (Random Forest),
 using Digital Soil Mapping as a case study.
 
 **Keywords**: Digital Soil Mapping, Machine Learning, Explainable AI, SHAP, Interpretability, Map, Cartography
@@ -39,7 +39,7 @@ The measured soil nitrogen and 1km grid inference data are also located under th
 The contents of this folder can be downloaded from [https://zenodo.org/records/12751114](https://zenodo.org/records/12751114)
 
 7. **saved**:
-This folder contains sub-folders including data, model and plots. During program execution, the data sub-folder is used to store important processed data files, the model sub-folder is used to store the trained ML and Explainable ML models, and the plots sub-folder is used to     store output plots and maps.
+This folder contains sub-folders including data, model and plots. During program execution, the data sub-folder is used to store important processed data files, the model sub-folder is used to store the trained ML and Explainable ML models, and the plots sub-folder is used to store output plots and maps.
 
 9. **Study area map**:
 This folder contains a QGIS project file and spatial data for the preparation of the study area map. The contents of this folder can be downloaded from [https://zenodo.org/records/12788621](https://zenodo.org/records/12788621)
