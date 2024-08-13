@@ -8,8 +8,6 @@ using Digital Soil Mapping as a case study.
 
 **Author**: [Isaac Newton Kissiedu](https://isaacnewtonfx.github.io)
 
-**License**: [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
-
 **Cartography Program Cohort**: Intake 12th (2022 - 2024)
 
 **Thesis Year**: 2024
