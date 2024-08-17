@@ -58,13 +58,13 @@ The program was developed using Python version 3.9.13 and depends on Python pack
 
 If the operating system Python version is at least 3 and above, this option could be used. Otherwise, Python version 2 is not supported by the program and therefore a virtual Python environment must be installed which is outlined in the section below.
 
-1.	Open the command prompt and navigate to the root folder. Execute the command >> pip in-stall -r requirements.txt
+1.	Open the Command Prompt and navigate to the root folder. Execute the command >> pip in-stall -r requirements.txt
 2.	Verify that the packages have been installed by executing the command >> pip list
 3.	If a package fails to install, attempt to install it separately >> pip install package_name
 
 **Installing dependencies into a virtual Python environment**
 
-The virtual environment manager Anaconda or miniconda can be used. Anaconda offers a graphical user interface while miniconda does not. Therefore beginners may find Anaconda more user-friendly.
+The virtual environment manager Anaconda or Miniconda can be used. Anaconda offers a graphical user interface while Miniconda does not. Therefore beginners may find Anaconda more user-friendly.
 
 **To use Anaconda**:
 
@@ -78,26 +78,26 @@ The virtual environment manager Anaconda or miniconda can be used. Anaconda offe
 8.	Click on Create. This will take a while to create the Python environment. Once it is done, the Python environment would be automatically selected.
 9.	Click on the Home menu.
 10.	Click to install the CMD.exe Prompt from the Anaconda Navigator.
-11.	Once installed, click to launch the CMD.exe Prompt. Notice that the Python environment is automatically activated within the command prompt.
+11.	Once installed, click to launch the CMD.exe Prompt. Notice that the Python environment is automatically activated within the Command Prompt.
 12.	Use the cd command to navigate to the root folder of the Python program. If the Python program folder is on a different disk, switch to that disk first.
 13.	Run the command >> pip install –r requirements.txt
 14. If a certain package breaks the installation, comment it out in the requirements.txt file,
 run step 13 again, and finally attempt to install the failed packages separately >> pip install package_name or conda install package_name or conda install package_name --channel conda-forge
-16.	After a successful installation of all packages listed in the requirements.txt file, close the command prompt.
+16.	After a successful installation of all packages listed in the requirements.txt file, close the Command Prompt.
 
 Advanced users can use the Import Menu under the Environments section of the Anaconda Navi-gator to import the conda-lock.yml file found under the "conda envs" folder to restore the development environment.
 
-**To use miniconda**:
+**To use Miniconda**:
 
-1. Install miniconda.
+1. Install Miniconda.
 [https://conda.io/projects/conda/en/latest/user-guide/install/index.html](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
-2. Use miniconda to create a Python virtual environment
+2. Use Miniconda to create a Python virtual environment
 [https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment)
 3. Activate the virtual environment.
 [https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment)
 4. Navigate the root folder and run the command >> pip install -r requirements.txt
 5. If a certain package breaks the installation, comment it out in the requirements.txt file, run step 4 again, and finally attempt to install the failed packages separately >> pip install pack-age_name or conda install package_name or conda install package_name --channel conda-forge
-6. After a successful installation of all packages listed in the requirements.txt file, close the command prompt.
+6. After a successful installation of all packages listed in the requirements.txt file, close the Command Prompt.
 
 Advanced users can use the conda-lock.yml file found under the "conda envs" folder to restore the development environment using the command >> conda-lock install --name geoai "conda envs/conda-lock.yml". More details regarding conda-lock is available at [https://pythonspeed.com/articles/conda-dependency-management](https://pythonspeed.com/articles/conda-dependency-management)
 
@@ -124,9 +124,9 @@ The following are the general steps to execute the program in Anaconda.
 
 **To run the main.py file**
 
-To execute the main.py file, the command prompt can be used as shown below.
+To execute the main.py file, the Command Prompt can be used as shown below.
 
-1.	When using the default Python environment, open the Operating System command prompt and navigate to the Python program root folder.
+1.	When using the default Python environment, open the Operating System Command Prompt application and navigate to the Python program root folder.
 Execute the command >> python main.py. Depending on the operating system and how the python interpreter is named,
 the command could be python3 main.py, especially on linux and mac systems where both Python 2 and 3 exist.
 3.	When using a virtual environment, first activate the virtual environment, then navigate to the root folder. Execute the command >> python main.py
