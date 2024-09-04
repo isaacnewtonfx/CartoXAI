@@ -31,7 +31,7 @@ RQ3.1: What are the technical steps and challenges in implementing the proposed 
 RQ3.2: How do target users perceive the prediction and local interpretability?
 
 Potential users:
-- Soil Scientists, Fertilizer Researchers, Agronomists, Policy Makers
+- Soil Scientists, Fertilizer Researchers, Agronomists, Decision Makers, General Map Users
 
 Stuy area:
 - Burkina Faso
