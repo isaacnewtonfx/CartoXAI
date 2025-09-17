@@ -12,13 +12,7 @@ using Digital Soil Mapping as a case study.
 
 **Thesis Year**: 2024
 
-**Thesis Poster**: [View](https://cartographymaster.eu/wp-content/theses/2024_Kissiedu_Poster.pdf)
-
-**Thesis PDF**: [View](https://cartographymaster.eu/wp-content/theses/2024_Kissiedu_Thesis.pdf)
-
-**Thesis Presentation PDF**: [View](https://cartographymaster.eu/wp-content/theses/2024_Kissiedu_Presentation.pdf)
-
-**Thesis 6min Video Presentation**: [View](https://www.youtube.com/watch?v=1ULM79rZ2Co&list=PLlR1PhEGebOCs0n-Np9iykqrrqU4nrYQ3&index=9)
+**Thesis Links**: [Poster](https://cartographymaster.eu/wp-content/theses/2024_Kissiedu_Poster.pdf) | [Full PDF](https://cartographymaster.eu/wp-content/theses/2024_Kissiedu_Thesis.pdf) | [Presentation PDF](https://cartographymaster.eu/wp-content/theses/2024_Kissiedu_Presentation.pdf) | [Thesis 6min Video Presentation](https://www.youtube.com/watch?v=1ULM79rZ2Co&list=PLlR1PhEGebOCs0n-Np9iykqrrqU4nrYQ3&index=9)
 
 **Thesis Hosting Institution**: Technische Universität Dresden (TUD)
 
